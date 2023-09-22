@@ -11,15 +11,15 @@
  </div>
 
 <h2 align="center">"Unlocking secrets in numbers and patterns, it's not guessing but scientific magic—Data science reveals truths hidden in data's mystic pages."</h2> <br>
-<h1>Hii there👋 Radhika Gupta😃</h1>
+<h1 align="center">Hii there👋 Radhika Gupta😃</h1>
+<h2 align="center"> Aspiring Data Enthusiast</h3>
+<img align="right" alt="Coding" src="https://webstockreview.net/images/cleaning-clipart-clean-workplace.gif" height="200px" width="400px"> </p>
 
-
-
-
-<h2 align="center">A passionate Data Scientist from India</h3>
-
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*H4cHks1eEdrW7Zlz.gif"> </p>
- 
+- 👀 I’m interested in **Data Science**.
+- 🌱 I’m currently learning **Machine Learning**.
+- 🔭 I’m currently working on Personal Projects. 
+- 👯 I’d like to collaborate on **Data Science based projects**.
+- 📫 How to reach me **softwarerad100@gmail.com**
 
 
 
