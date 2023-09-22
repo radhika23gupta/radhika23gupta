@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/@radhikagupta-30302f?style=for-the-badge&logo=github"/>
 </a>
 <a href="">
-  <img src="https://img.shields.io/badge/@radhikagupta-#0077b5?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/@radhikagupta-#87CEEB?style=for-the-badge&logo=linkedin"/>
 </a>
  </div>
 
