@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @radhika23gupta
-- 👀 I’m interested in Data Science and Analytics
-- 🌱 I’m currently learning Artificial Intelligence
-- 💞️ I’m looking to collaborate on Data Science
-- 📫 How to reach me guptaradhika665@gmail.com
+<div id="header" align="center">
+  <img src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" width="300"/>
 
-<!---
-radhika23gupta/radhika23gupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ <div id="badges">
+    <a href="https://www.linkedin.com/in/radhika-gupta-345bb3267?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMS8IqInyQJOUxG9RQPsTRw%3D%3D">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="your-youtube-URL">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+    <a href="your-twitter-URL">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
